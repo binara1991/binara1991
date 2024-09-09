@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Binara Siriwardhana</h1>
 <h3 align="center">A passionate Data Scientist Live in Sweden</h3>
 
-- 🔭 I’m currently working on **Machine Translation Evaluation**
+- 🔭 I’ve completed my thesis on Evaluating Machine Translations of Company Reports for Grammatical and Lexical Accuracy.
 
-- 🌱 I’m currently learning **Master of Data Science**
+- 🌱 I hold a Master’s in Data Science, with experience in Python, BigQuery, Power BI, SQL, and cloud technologies like Azure
 
-- 👨‍💻 All of my projects are available at [https://github.com/binara1991](https://github.com/binara1991)
+- 👨‍💻 All of my projects are available at [https://github.com/binara91](https://github.com/binara1991)
 
-- 💬 Ask me about **SQL,Python,Machine Learning etc**
+- 💬 Ask me about **SQL, Python, Machine Learning, etc**
 
 - 📫 How to reach me **binara1991@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/binara-siriwardhana/](https://www.linkedin.com/in/binara-siriwardhana/)
+
+- 💡 I’m passionate about business intelligence, system optimization, and continuous learning. Currently, I’m expanding my expertise in Azure Synapse Engineering and PostgreSQL.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
